@@ -1,0 +1,19 @@
+﻿{
+    "ID": 1,
+    "Users": [
+        {
+            "ID": 1,
+            "Nombre": "Admin",
+            "Mail": "admin@mail.com",
+            "Password": "admin",
+            "Dni": 1,
+            "Direccion": "Dir Main",
+            "Telefono": "111111111",
+            "Foto":"IMAGENES/USERDEFAULT.png" ,
+            "Roles": [
+                "ADMINISTRADOR",
+                "DIRECTOR DE ESTUDIOS"
+                     ]
+        }  
+       ]
+}

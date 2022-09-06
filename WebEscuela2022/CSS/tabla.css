@@ -1,0 +1,35 @@
+﻿.tabla {
+    margin: 2rem 2rem;
+    width: 90%;
+    box-shadow: 0 10px 15px 5px rgb(0 0 0/30%);
+    border-spacing: 0;
+    border-radius: .3rem;
+}
+#divTable {
+    overflow: auto;
+    height: 500px;
+
+}
+    .tabla thead {
+        background-color: rgb(241, 68, 114);
+        color: white;
+        height: 3rem;
+    }
+
+    .tabla tbody tr td {
+        text-align: center;
+        padding: .5rem;
+    }
+
+.edit:hover {
+    color: rgb(255, 92, 92);
+}
+#roles{
+    text-align:center;
+}
+.tabla__foto{
+    height:3rem;
+    width:3rem;
+    border-radius:30px;
+
+}
